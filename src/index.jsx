@@ -1,7 +1,9 @@
 import {
-  clone
+  clone,
+  checkout
 } from './repository.jsx';
 
 export {
-  clone
+  clone,
+  checkout
 };
