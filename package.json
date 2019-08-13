@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/core-repository",
-  "version": "1.70.0-master",
+  "version": "1.70.1-master",
   "description": "JSON utilities",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/core-repository.git",
@@ -29,7 +29,7 @@
     "analyze": "webpack --config webpack.config.js --env.analyze"
   },
   "dependencies": {
-    "@nebulario/core-process": "1.70.0-master"
+    "@nebulario/core-process": "1.70.1-master"
   },
   "peerDependencies": {}
 }
